@@ -1,2 +1,3 @@
 # Prodigy_ML_02
-Intern at Prodigy Infotech, working on Machine Learning projects. This repository stores my projects and implementations.
+Create a K-means clustering algorithm to group customers of a retail store based on their purchase history.
+<br>Dataset :- https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
